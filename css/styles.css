@@ -157,6 +157,11 @@ main{
     text-align: center;
 }
 
+#informações p{
+    margin-bottom: 40px;
+}
+
+
 #vídeo{
     margin: auto;
     width: fit-content;
